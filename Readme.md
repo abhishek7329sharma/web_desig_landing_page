@@ -10,11 +10,14 @@
 
 <br>
 
-![Developer Landing Page](./8.png)
+![Web Design Landing Page](./8.png)
+
+![Time](https://img.shields.io/badge/TIme-1--2%20Hours-brightgreen "Time taken to complete this project")
 
 <br>
 
 #### Live link to the project 👇
 
-[https://melodious-kulfi-5ad8e4.netlify.app](hhttps://melodious-kulfi-5ad8e4.netlify.app"Find the Project live link here")
+[https://04-abhishek-webpage-landing-page.netlify.app/](https://04-abhishek-webpage-landing-page.netlify.app/ "Find the Project live link here")
+
 <br>
