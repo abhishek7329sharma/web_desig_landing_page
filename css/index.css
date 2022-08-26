@@ -161,7 +161,7 @@ img[alt="logo"] {
   }
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 600px) {
   img[alt="vector-img"] {
     display: none;
   }
